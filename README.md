@@ -3,6 +3,7 @@
 > 在**运行中**的 Linux 上，把系统盘（ESP + root）做成一个**最小化、可启动**的 img 镜像。
 > 适配 x86 UEFI / ARM / 树莓派 / 飞牛 fnOS / Debian / Ubuntu，GPT 与 MBR 都支持。
 
+![ci](https://github.com/txhtxh11/system-online-backup/actions/workflows/ci.yml/badge.svg)
 ![platform](https://img.shields.io/badge/platform-x86%20%7C%20ARM-2f81f7)
 ![shell](https://img.shields.io/badge/shell-bash-4eaa25)
 ![filesystems](https://img.shields.io/badge/fs-ext4%20%7C%20xfs%20%7C%20btrfs%20%7C%20f2fs-8957e5)
