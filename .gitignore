@@ -1,0 +1,9 @@
+# 备份产物
+*.img
+*.img.zst
+*.img.gz
+backup-*
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
